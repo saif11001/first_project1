@@ -4,6 +4,7 @@
  */
 
 package com.mycompany.bbfbfbfbfbfbffbbffb;
+import java.util.Scanner;
 
 /**
  *
@@ -12,9 +13,14 @@ package com.mycompany.bbfbfbfbfbfbffbbffb;
 public class Bbfbfbfbfbfbffbbffb {
 
     public static void main(String[] args) {
+    Scanner in = new Scanner (System.in);
         System.out.println("Hello World!");
         System.out.println("hi");
         System.out.println("im here");
+        System.out.println("bey");
+        System.out.println("enter your number please:");
+        int x = in.nextInt();
+        System.out.println("your number is " + x);
         System.out.println("bey");
     }
 }
