@@ -17,7 +17,6 @@ public class Bbfbfbfbfbfbffbbffb {
         System.out.println("Hello World!");
         System.out.println("hi");
         System.out.println("im here");
-        System.out.println("bey");
         System.out.println("enter your number please:");
         int x = in.nextInt();
         System.out.println("your number is " + x);
